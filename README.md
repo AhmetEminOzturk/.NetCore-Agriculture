@@ -1,0 +1,2 @@
+# .NetCore-Agriculture
+ .NetCore-NTierArch
